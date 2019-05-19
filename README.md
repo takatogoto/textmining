@@ -9,5 +9,6 @@
 `conda install -c anaconda scikit-learn`  
 `conda install -c anaconda statsmodels`  
 `conda install -c anaconda gensim`  
+`conda install -c anaconda nltk`  
 
 
