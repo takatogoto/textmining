@@ -10,5 +10,5 @@
 `conda install -c anaconda statsmodels`  
 `conda install -c anaconda gensim`  
 `conda install -c anaconda nltk`  
-
-
+https://myenigma.hatenablog.com/entry/2017/03/02/155433?utm_source=feed　　
+`conda install numba`　　
